@@ -1,0 +1,79 @@
+{
+  "extensions": [
+    "abusaidm.html-snippets",
+    "andrew-codes.cypress-snippets",
+    "ardenivanov.svelte-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "CoenraadS.bracket-pair-colorizer",
+    "dline.CobaltNext",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "golang.go",
+    "killalau.vscode-liquid-snippets",
+    "ms-azuretools.vscode-docker",
+    "ms-mssql.mssql",
+    "ms-vscode-remote.remote-containers",
+    "neilding.language-liquid",
+    "octref.vetur",
+    "ritwickdey.LiveServer",
+    "stylelint.vscode-stylelint",
+    "svelte.svelte-vscode",
+    "vscode-icons-team.vscode-icons",
+    "vscodevim.vim"
+  ],
+  "workbench.colorTheme": "Cobalt Next Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.minimap.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "prettier.arrowParens": "avoid",
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "keyboard.dispatch": "keyCode",
+  "vim.normalModeKeyBindings": [],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.compactFolders": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.validate": false,
+  "stylelint.enable": true,
+  "stylelint.config": {},
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ]
+}

@@ -24,56 +24,58 @@
     "vscode-icons-team.vscode-icons",
     "vscodevim.vim"
   ],
-  "workbench.colorTheme": "Cobalt Next Dark",
-  "workbench.iconTheme": "vscode-icons",
-  "editor.minimap.enabled": false,
-  "gitlens.codeLens.enabled": false,
-  "prettier.arrowParens": "avoid",
-  "prettier.printWidth": 120,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "none",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "keyboard.dispatch": "keyCode",
-  "vim.normalModeKeyBindings": [],
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "explorer.confirmDelete": false,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "[vue]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "explorer.compactFolders": false,
-  "vsicons.dontShowNewVersionMessage": true,
-  "editor.tabSize": 2,
-  "window.zoomLevel": 0,
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "css.validate": false,
-  "stylelint.enable": true,
-  "stylelint.config": {},
-  "auto-close-tag.activationOnLanguage": [
-    "xml",
-    "php",
-    "blade",
-    "ejs",
-    "jinja",
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact",
-    "plaintext",
-    "markdown",
-    "vue",
-    "liquid",
-    "erb",
-    "lang-cfml",
-    "cfml",
-    "HTML (EEx)",
-    "HTML (Eex)",
-    "plist"
-  ]
+  "settings.json": {
+    "workbench.colorTheme": "Cobalt Next Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "keyboard.dispatch": "keyCode",
+    "vim.normalModeKeyBindings": [],
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.compactFolders": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "css.validate": false,
+    "stylelint.enable": true,
+    "stylelint.config": {},
+    "auto-close-tag.activationOnLanguage": [
+      "xml",
+      "php",
+      "blade",
+      "ejs",
+      "jinja",
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "plaintext",
+      "markdown",
+      "vue",
+      "liquid",
+      "erb",
+      "lang-cfml",
+      "cfml",
+      "HTML (EEx)",
+      "HTML (Eex)",
+      "plist"
+    ]
+  }
 }
